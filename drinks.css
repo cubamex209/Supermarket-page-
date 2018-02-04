@@ -1,0 +1,14 @@
+*{
+box-sizing: border-box;
+}
+html{
+  background-color: #E8433C;
+}
+header{
+  text-align: center;
+  background-color: #E8433C;
+  border-bottom: 10px solid black;
+  font-size: 80px;
+  font-family: 'Lobster', cursive;
+  color:white;
+}
